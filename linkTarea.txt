@@ -1,0 +1,3 @@
+Cordial saludo 
+En el siguiente repositorio de codigo se encuentra la tarea solicitada para esta sección
+https://github.com/eventsequor/tareaWordpress.git
